@@ -20,14 +20,19 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lenincaldeira)](https://github.com/lenincaldeira)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenin-caldeira/)](https://www.linkedin.com/in/lenin-caldeira/)
+ <a href="https://www.linkedin.com/in/lenin-caldeira/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+ <a href="https://www.instagram.com/lenincaldeira/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+
 
 - Thanks for visiting.
 
 - Enjoy it!! o/
 
- <a href="https://www.linkedin.com/in/lenin-caldeira/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
 
