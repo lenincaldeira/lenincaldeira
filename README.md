@@ -25,17 +25,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenincaldeira&theme=dark&hide_langs_below=1" />
 </a>
 
-<!--
-<a href="https://github.com/lenincaldeira">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lenincaldeira_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
--->
-
-
-<a href="https://github.com/lenincaldeira/lenincaldeira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenincaldeira&repo=lenincaldeira&theme=dark" />
-</a>
-
 <a href="https://github.com/lenincaldeira/Clone-Netflix">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenincaldeira&repo=Clone-Netflix&theme=dark" />
 </a>
