@@ -33,7 +33,7 @@
 
 
 <a href="https://github.com/lenincaldeira/lenincaldeira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=lenincaldeira&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenincaldeira&repo=lenincaldeira&theme=dark" />
 </a>
 
 <a href="https://github.com/lenincaldeira/Clone-Netflix">
