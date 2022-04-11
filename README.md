@@ -31,7 +31,7 @@
 
 <br>
 
-# Connect with me <img src="https://github.com/lenincaldeira/lenincaldeira/commit/e54834970982bf12c6accaf511347c6a4a31029a#diff-51719cab7c480905f012dee1957a5d6c777129a57271259114dbb41c9d69f355" height="32px">
+# Connect with me
 
 
 
