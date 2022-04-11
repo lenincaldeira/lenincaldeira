@@ -25,9 +25,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenincaldeira&theme=dark&hide_langs_below=1" />
 </a>
 
+<!--
 <a href="https://github.com/lenincaldeira">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lenincaldeira_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
+-->
 
 
 <a href="https://github.com/lenincaldeira/lenincaldeira">
@@ -39,17 +41,8 @@
 </a>
 
 <br>
-<!--
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
--->
 
-<br>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
-
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/lenincaldeira/lenincaldeira/commit/e54834970982bf12c6accaf511347c6a4a31029a" height="32px">
 
 
 
