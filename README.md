@@ -5,7 +5,7 @@
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.uninassau.edu.br/institucional/nacional"> <b>Uninassau</b>, Recife</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A <b>Software Developer</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Rocket.gif" width="18px">and 
     <b>excelent</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Medal.gif" width="20px">
