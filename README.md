@@ -1,6 +1,6 @@
 <img align="right" alt="PC GIF" src="https://github.com/lenincaldeira/lenincaldeira/blob/master/PC.gif" width="150" />
 
-### <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Earth.gif" width="24px">
+### <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Hi.gif" width="10px"> **Hello world!** &nbsp;<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Earth.gif" width="10px">
 
 <p>
   <em>
