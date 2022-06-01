@@ -5,18 +5,18 @@
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.uninassau.edu.br/institucional/nacional"> <b>Uninassau</b>, Recife</a>.  
-    A <b>Software Developer</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A <b>Software Developer</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Developer.gif" width="10px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Designer.gif" width="10px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Rocket.gif" width="18px">and 
-    <b>excelent</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Medal.gif" width="20px">
+    <b>grow</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Rocket.gif" width="10px">and 
+    <b>excelent</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Medal.gif" width="10px">
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/lenincaldeira/lenincaldeira/blob/master/wave.gif" width="20vw" /> I’m *currently* **studying** or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/lenincaldeira/lenincaldeira/blob/master/js-javascript.gif" width="20vw" /> I’m *looking to collaborate* on **JavaScript projects**.
-- <img alt="GIF" src="https://github.com/lenincaldeira/lenincaldeira/blob/master/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
+- <img alt="GIF" src="https://github.com/lenincaldeira/lenincaldeira/blob/master/wave.gif" width="10vw" /> I’m *currently* **studying** or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/lenincaldeira/lenincaldeira/blob/master/js-javascript.gif" width="10vw" /> I’m *looking to collaborate* on **JavaScript projects**.
+- <img alt="GIF" src="https://github.com/lenincaldeira/lenincaldeira/blob/master/gandalf_parrot.gif" width="10vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
 
 
 <br>
