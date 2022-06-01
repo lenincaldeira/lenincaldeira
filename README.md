@@ -2,38 +2,7 @@
 
 ### <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Hi.gif" width="10px"> **Hello world!** &nbsp;<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Earth.gif" width="10px">
 
-<p>
-  <em>
-    I am a 3rd Year undergraduate from <a href="https://www.uninassau.edu.br/institucional/nacional"> <b>Uninassau</b>, Recife</a>.  
-    A <b>Software Developer</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Developer.gif" width="10px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Designer.gif" width="10px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Rocket.gif" width="10px">and 
-    <b>excelent</b> <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Medal.gif" width="10px">
-  </em>  
-</p>
-
-<br>
-
-- <img alt="GIF" src="https://github.com/lenincaldeira/lenincaldeira/blob/master/wave.gif" width="10vw" /> I’m *currently* **studying** or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/lenincaldeira/lenincaldeira/blob/master/js-javascript.gif" width="10vw" /> I’m *looking to collaborate* on **JavaScript projects**.
-- <img alt="GIF" src="https://github.com/lenincaldeira/lenincaldeira/blob/master/gandalf_parrot.gif" width="10vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-
-
-<br>
-
-<a href="https://github.com/lenincaldeira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenincaldeira&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/lenincaldeira/Clone-Netflix">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenincaldeira&repo=Clone-Netflix&theme=dark" />
-</a>
-
-<br>
-
 # Connect with me
-
-
 
 | [<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/lenin-caldeira/) | [<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/CaldeiraLenin) | [<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/lenincaldeira/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/lenincaldeira) | [<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/assets/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://pt.stackoverflow.com/users/283995/lenin-caldeira) | [<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:lenin.caldeira@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|
