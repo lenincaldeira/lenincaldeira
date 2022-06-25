@@ -1,6 +1,4 @@
 
-### <img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Hi.gif" width="10px"> **Hello world!** &nbsp;<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/Earth.gif" width="10px">
-
 # Connect with me
 
 | [<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/lenin-caldeira/) | [<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/CaldeiraLenin) | [<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/lenincaldeira/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/lenincaldeira) | [<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/assets/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://pt.stackoverflow.com/users/283995/lenin-caldeira) | [<img src="https://github.com/lenincaldeira/lenincaldeira/blob/master/assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:lenin.caldeira@gmail.com)
